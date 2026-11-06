@@ -1,0 +1,3 @@
+Data up to:      2026-11-05 23:00 (Madrid)
+Best start:      2026-11-06 10:00 (Madrid), in 11 h
+Forecast CO2:    10.1 kg vs 17.0 kg if started now (40% less)
